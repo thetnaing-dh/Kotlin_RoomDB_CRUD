@@ -35,7 +35,7 @@ This project demonstrates a complete CRUD (Create, Read, Update, Delete) system 
   - ViewModel
   - LiveData
   - RecyclerView
-  - Material Design Components
+* Material Design Components
 
 ### How to Use
 1. Adding a Menu Item
