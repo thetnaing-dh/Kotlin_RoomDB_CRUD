@@ -2,6 +2,8 @@
 ## Project Description
 This project demonstrates a complete CRUD (Create, Read, Update, Delete) system for managing menu items using Kotlin and Room Database with Android Architecture Components. The application allows users to perform all basic database operations with proper validation checks.
 
+![alt](https://github.com/thetnaing-dh/Kotlin_RoomDB_CRUD/blob/393e7a67cfe21d56c1a8c617cc42c28577734692/kotlin.jpg)
+
 ### Features
 1. Room Database Implementation
 * Entity class for MenuItem with fields: id, code, name, salePrice, cost, inactive status
